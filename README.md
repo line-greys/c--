@@ -9,6 +9,7 @@ mkdir *dir* - creates a dictionary (in the current dictionary) with name *dir*
 cd *dir* - moves to directory with name *dir*. Must be a subdirectory of the current directory.
 cd .. - moves up a directory
 dir - prints items in current directory
+bye - ends the program
 
 Planned for the future: 
 -creating files with text content and writing to/reading from them
