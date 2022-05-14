@@ -24,3 +24,4 @@ Planned for the future:
 -creating files with text content and writing to/reading from them
 -optional save current state of the filesystem to a file, optional read from file when starting the program
 -GUI
+-better code organization
